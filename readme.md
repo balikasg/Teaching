@@ -4,11 +4,11 @@ The course took place during October-November 2016. A wiki containing the descri
 
 
 ## Practical Sessions Description
-1. Supervised Learning: Intro to Python,  Implementation of the perceptron classifier.
-2. Unsupervised Learning for clustering: Implementation of k-Means
-3. Text Mining: The Vector Space Model and feature extraction for text
-4. Probabilistic Models: probabilistic Latent Semantic Allocation 
-5. Probabilistic Models: Latent Dirichlet Allocation with collapsed Gibbs sampling inference 
+1. **Supervised Learning**: Intro to Python,  Implementation of the perceptron classifier.
+2. **Unsupervised Learning for clustering**: Implementation of k-Means
+3. **Representation learning for Text Mining**: The Vector Space Model and feature extraction for text
+4. **Probabilistic Models**: probabilistic Latent Semantic Allocation 
+5. **Probabilistic Models**: Latent Dirichlet Allocation with collapsed Gibbs sampling inference 
 
 ## Material
 The directories Session1 to Session5 contain the Jupyter Notebooks used for each session. 
